@@ -1,0 +1,5 @@
+python-types-cryptography (3.3.8-0pexip1) pexip; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Huw Jones <huw@pexip.com>  Wed, 10 Nov 2021 12:45:00 +0000
